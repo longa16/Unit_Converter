@@ -26,3 +26,9 @@ A simple and elegant GUI application for converting between imperial and metric 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/imperial-metric-converter.git
+
+## Usage
+
+1. Run the application with:
+    ```bash
+    python main.py

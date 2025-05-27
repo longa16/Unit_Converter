@@ -1,4 +1,4 @@
-# Imperial ↔ Metric Converter
+# 📏🔁 Imperial - Metric Converter
 
 A simple and elegant GUI application for converting between imperial and metric units, built with Python and Tkinter.
 
@@ -15,12 +15,12 @@ A simple and elegant GUI application for converting between imperial and metric 
 - Error handling for invalid inputs
 - Precise results with 2 decimal places
 
-## Requirements
+## 🧰 Requirements
 
 - Python 3.6+
 - Tkinter (usually comes with Python installation)
 
-## Installation
+##  📦 Installation
 
 1. Clone the repository:
    ```bash

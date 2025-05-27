@@ -2,7 +2,6 @@
 
 A simple and elegant GUI application for converting between imperial and metric units, built with Python and Tkinter.
 
-![Screenshot of the converter app](assets/screenshot.png) 
 
 ## Features
 
